@@ -9,7 +9,7 @@ The following table must be completed as soon as the repository is created. ***I
 
 |        Student ID          |     Student Full Name      |        SFSU Email          |
 | ---------------------------| ---------------------------| ---------------------------|
-|      922988765       |       Zacharia Angha       |      zangha@sfsu.edu       |
+|             |       Zacharia Angha       |             |
 
 
 A random database topic will be assigned by the instructor to all the students. As soon as it is assigned, fill out the following table with your topic´s info.
